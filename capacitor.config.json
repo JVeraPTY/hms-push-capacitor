@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "push capacitor",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
