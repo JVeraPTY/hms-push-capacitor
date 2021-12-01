@@ -1,0 +1,6 @@
+{
+	"appId": "com.huawei.dtse.capacitor.push",
+	"appName": "push capacitor",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
